@@ -17,6 +17,7 @@
 ## 🔭Диплом
 
 - [Тестировщик ПО](https://github.com/Natalchik/software-tester-Diploma.jpg.git)
+- [Приложение к диплому](https://github.com/Natalchik/software-tester-Diploma_2.jpg.git)
 
 ## 🔭Сертификаты
   
