@@ -20,6 +20,10 @@
 - [Приложение к диплому](https://github.com/Natalchik/software-tester-Diploma_2.jpg.git)
 
 ## 🔭Сертификаты
+- [Ручное тестирование веб-приложений]( )
+- [Git]( )
+- [Java для тестировщиков]( )
+- [Автоматизированное тестирование]( )
   
 <!--
 **Natalchik/Natalchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
